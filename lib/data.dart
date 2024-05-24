@@ -67,8 +67,8 @@ class Filter {
 
 List<Filter> getFilterList() {
   return <Filter>[
-    Filter("CLASSICS"),
-    Filter("NEW"),
-    Filter("UPCOMING"),
+    Filter("Livros"),
+    Filter("Doar"),
+    Filter("Novidades"),
   ];
 }
